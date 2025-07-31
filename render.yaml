@@ -9,4 +9,4 @@ services:
       - key: IBM_API_KEY
         value: cpd-apikey-IBMid-6970010K8X-2025-07-31T10:26:15Z
       - key: IBM_ENDPOINT
-        value: https://us-south.ml.cloud.ibm.com/ml/v4/deployments/529e49a1-5497-457f-9094-0a5647777210/ai_service?version=2021-05-01
+        value: https://us-south.ml.cloud.ibm.com/ml/v4/deployments/529e49a1-5497-457f-9094-0a5647777210/ai_service_stream?version=2021-05-01
